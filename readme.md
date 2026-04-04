@@ -56,17 +56,15 @@ Effective inventory and sales management are critical in the retail sector. This
 vendor-performance-analysis/
 │
 ├── README.md
-├── .gitignore
-├── requirements.txt
 ├── Vendor Performance Report.pdf
-│
-├── notebooks/                  # Jupyter notebooks
+
+│             # Jupyter notebooks
 │   ├── exploratory_data_analysis.ipynb
 │   ├── vendor_performance_analysis.ipynb
 │   ├── ingestion_db.ipynb
 │   ├── get_vendor_summary.ipynb
-│
-├── scripts/                    # Python scripts for ingestion and processing
+
+│                  # Python scripts for ingestion and processing
 │   ├── ingestion_db.py
 │   └── get_vendor_summary.py
 │
