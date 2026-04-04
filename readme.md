@@ -120,7 +120,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard]("C:\Users\tim34\OneDrive\Pictures\Screenshots\Screenshot 2026-04-04 145504.png")
+C:\Users\tim34\OneDrive\Pictures\Screenshots\Screenshot 2026-04-04 145504.png
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
