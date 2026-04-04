@@ -37,7 +37,7 @@ Effective inventory and sales management are critical in the retail sector. This
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
+- Multiple CSV files located in folder (sales, vendors, inventory)
 - Summary table created from ingested data and used for analysis
 
 ---
@@ -67,8 +67,8 @@ vendor-performance-analysis/
 │                  # Python scripts for ingestion and processing
 │   ├── ingestion_db.py
 │   └── get_vendor_summary.py
-│
-├── dashboard/                  # Power BI dashboard file
+
+│                 # Power BI dashboard file
 │   └── vendor_performance_dashboard.pbix
 ```
 
@@ -120,7 +120,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](c:\Users\tim34\OneDrive\Pictures\Screenshots\Screenshot 2026-04-04 145504.png)
+![Vendor Performance Dashboard]("C:\Users\tim34\OneDrive\Pictures\Screenshots\Screenshot 2026-04-04 145504.png")
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -131,11 +131,11 @@ git clone https://github.com/yourusername/vendor-performance-analysis.git
 ```
 3. Load the CSVs and ingest into database:
 ```bash
-python scripts/ingestion_db.ipynb
+python ingestion_db.ipynb
 ```
 4. Create vendor summary table:
 ```bash
-python scripts/get_vendor_summary.ipynb
+python get_vendor_summary.ipynb
 ```
 5. Open and run notebooks:
    - `notebooks/exploratory_data_analysis.ipynb`
@@ -159,4 +159,4 @@ python scripts/get_vendor_summary.ipynb
 Data Analyst  
 📧 Email: ayush729254@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-gupta-65a687279/)  
-🔗 [Portfolio](http://127.0.0.1:5501/Ayush-portfolio-website-main/index.html)
+🔗 [Portfolio]()
