@@ -64,10 +64,6 @@ vendor-performance-analysis/
 │   ├── ingestion_db.ipynb
 │   ├── get_vendor_summary.ipynb
 
-│                  # Python scripts for ingestion and processing
-│   ├── ingestion_db.py
-│   └── get_vendor_summary.py
-
 │                 # Power BI dashboard file
 │   └── vendor_performance_dashboard.pbix
 ```
